@@ -100,7 +100,7 @@ input.password {
     line-height: 15px;
     text-shadow: 0px 0px 2px white;
     border: none;
-    color: white;
+    color: black;
 }
 
 .submitbtn {
@@ -114,14 +114,15 @@ input.password {
     border: 0;
     font-size: 20px;
     text-shadow: 0px 0px 2px white;
-    border: none;
     line-height: 15px;
 }
 
 .subbtn:hover {
-    color: white;
+    color: black;
     background: transparent;
     box-shadow: none;
+    font-weight: bolder;
+    font-size: 25px;
 }
 
 .subbtn:before,
@@ -132,7 +133,7 @@ input.password {
     right: 0;
     height: 2px;
     width: 0;
-    background: white;
+    background: black;
     box-shadow: -1px -1px 5px 0px #fff, 7px 7px 20px 0px #0003, 4px 4px 5px 0px #0002;
     transition: 400ms ease all;
 }
