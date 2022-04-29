@@ -13,7 +13,7 @@ body {
     background-attachment: fixed;
     background-size: cover;
     background-position: top;
-    background-image: url("./forest-ge99101267_1920.jpeg");
+    background-image: url("./vendor/chicago-g6bd816056_1920.jpeg");
     width: 100%;
     height: 100%;
     font-family: Arial, Helvetica;
@@ -66,7 +66,7 @@ body {
     text-shadow: 0px 0px 2px black;
     background-size: cover;
     background-position: top;
-    background-image: url("./chicago-g6bd816056_1920.jpeg");
+    background-image: url("./vendor/forest-ge99101267_1920.jpeg");
 }
 
 .login {
